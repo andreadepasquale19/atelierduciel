@@ -791,8 +791,6 @@ nav a:hover {
         padding: 100px 20px 60px;
     }
 }
-
-/* Pour les très petits écrans */
 @media (max-width: 480px) {
     .artistes-grid {
         gap: 30px 15px;
