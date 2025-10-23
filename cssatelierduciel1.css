@@ -229,7 +229,7 @@ nav a:hover {
     min-height: 100vh;
     padding: 120px 80px 80px;
     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-                url('fondprojet.png');
+                url('images/fondprojet.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -363,7 +363,7 @@ nav a:hover {
     min-height: 100vh;
     padding: 120px 80px 80px;
     background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-                url('fondprojet.png');
+                url('images/fondprojet.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -571,7 +571,7 @@ nav a:hover {
     min-height: 100vh;
     padding: 120px 80px 80px;
     background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-                url('fondprojet.png');
+                url('images/fondprojet.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
