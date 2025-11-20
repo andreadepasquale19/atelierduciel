@@ -1,4 +1,4 @@
-const lightbox = document.createElement('div');
+        const lightbox = document.createElement('div');
         lightbox.className = 'lightbox';
         lightbox.innerHTML = '<span class="lightbox-close">&times;</span><img src="" alt="">';
         document.body.appendChild(lightbox);
@@ -14,4 +14,3 @@ const lightbox = document.createElement('div');
         lightbox.addEventListener('click', () => {
             lightbox.classList.remove('active');
         });
-        
